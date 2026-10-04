@@ -1,0 +1,10 @@
+@page { size: A4; margin: 1.8cm; }
+body { font-family: "Liberation Sans", Arial, sans-serif; font-size: 10pt; line-height: 1.4; color: #111; }
+h1 { font-size: 17pt; margin-top: 0; }
+h2 { font-size: 13pt; margin-top: 18pt; border-bottom: 1px solid #bbb; padding-bottom: 2pt; break-after: avoid; }
+h3 { font-size: 11pt; margin-top: 12pt; break-after: avoid; }
+table { border-collapse: collapse; width: 100%; margin: 6pt 0; font-size: 9pt; }
+th, td { border: 1px solid #ccc; padding: 3pt 5pt; text-align: left; vertical-align: top; }
+th { background: #f0f0f0; }
+img { max-width: 70%; display: block; margin: 6pt 0; border: 1px solid #ddd; }
+code { font-size: 9pt; }
